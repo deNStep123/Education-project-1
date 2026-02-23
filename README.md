@@ -28,8 +28,9 @@ A small company with ~20 employees requires:
 ### 1️⃣ Linux Server Setup
 
 * Base system installation and hardening
-* Static IP configuration
+* IP configuration
 * Hostname and network configuration
+* Configure several net interfaces(external/internal)
 
 ### 2️⃣ User & Group Management
 
