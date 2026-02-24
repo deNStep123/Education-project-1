@@ -77,12 +77,12 @@ A small company with ~20 employees requires:
 
 ## 📂 Repository Contents
 
-* `/scripts` → Bash automation scripts
-* `/configs` → Server configuration files
-* `/network-diagram` → Infrastructure scheme
-* `/policies` → Access and security policy documentation
-* `/docs` → Implementation explanations
-
+* `/scripts`          → automation (backup, firewall setup, users)
+* `/configs`         → netplan, sshd_config, ufw rules, etc
+* `/architecture`     → network diagram, topology
+* `/policies`        → security & access policies
+* `/docs`             → implementation steps & explanations
+* `README.md`         → overview проекта
 ---
 
 ## 🔐 Security Policy Highlights
