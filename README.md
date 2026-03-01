@@ -103,3 +103,7 @@ A small company with ~20 employees requires:
 ✔ Infrastructure planning
 ✔ Automation with Bash
 ✔ Understanding of real-world small business environments
+
+## 📄 License
+
+MIT License — feel free to use and contribute!
